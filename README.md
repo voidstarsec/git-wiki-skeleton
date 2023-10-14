@@ -1,2 +1,2 @@
-{% capture my_include %}{% include wiki/intro.md %}{% endcapture %}
+{% capture my_include %}{% include intro.md %}{% endcapture %}
 {{ my_include | markdownify }}
