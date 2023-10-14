@@ -3,7 +3,7 @@
 {% capture my_include %}{% include soldering.md %}{% endcapture %}
 {% capture my_include %}{% include multimeter.md %}{% endcapture %}
 {% capture my_include %}{% include microscopes-magnification.md %}{% endcapture %}
-{% capture my_include %}{% include oscilloscop.md %}{% endcapture %}
+{% capture my_include %}{% include oscilloscope.md %}{% endcapture %}
 {% capture my_include %}{% include logic-analyzer.md %}{% endcapture %}
 {% capture my_include %}{% include oscope-vs-logic-analyzer.md %}{% endcapture %}
 {% capture my_include %}{% include power-supplies.md %}{% endcapture %}
