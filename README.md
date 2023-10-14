@@ -1,5 +1,5 @@
 {% capture my_include %}
-{% include intro.md %}
+{% include ../wiki/intro.md %}
 {% include workbench.md %}
 {% include soldering.md %}
 {% include multimeter.md %}
