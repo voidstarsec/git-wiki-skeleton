@@ -1,9 +1,5 @@
 ---
-layout: post
-title: "Intro to Embedded RE: UART Discovery and Firmware Extraction via UBoot "
-description: Extracting firmware via UART and UBoot
-summary:  
-tags: embedded tutorial
+published: true
 ---
 
 

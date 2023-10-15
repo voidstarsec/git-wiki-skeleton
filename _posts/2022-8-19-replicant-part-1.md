@@ -1,10 +1,8 @@
 ---
-layout: post
-title: "Replicant: Reproducing a Fault Injection Attack on the Trezor One"
-description: Introduction to Fault Injection Attacks
-summary:  
-tags: fault-injection chipwhisperer security tutorial
+published: true
 ---
+
+# Replicant: Reproducint a Fault Injection Attach on the Trezor One
 
 # Overview
 

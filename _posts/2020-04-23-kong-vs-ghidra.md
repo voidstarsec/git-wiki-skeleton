@@ -3,7 +3,7 @@ published: true
 ---
 
 
-# Godzilla Vs. Kong Vs ... Ghidra? - Ghidra Scripting, PCode Emulation, and Password Cracking on a GBA ROM
+# Ghidra Scripting, PCode Emulation, and Password Cracking on a GBA ROM
 
 ## Overview
 

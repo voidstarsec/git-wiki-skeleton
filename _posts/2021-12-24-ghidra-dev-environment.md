@@ -1,9 +1,5 @@
 ---
-layout: post
-title: "Extending Ghidra Part 1: Setting up a Development Environment"
-description: Instructions on how to set up a build Ghidra and set up a development environment
-summary:  
-tags: ghidra tutorial
+published: true
 ---
 
 # Extending Ghidra Part 1: Setting up a Development Environment

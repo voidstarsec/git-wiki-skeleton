@@ -1,12 +1,8 @@
 ---
-layout: post
-title: "Intro to Embedded RE Part 1: Tools and Series Overview"
-description: Tools required to set up an embedded reverse engineering lab
-summary:  
-tags: embedded tutorial
+published: true
 ---
 
-# Tools and Series Overview
+# Introduction to Embedded Reverse Engineering 
 
 # Overview
 
