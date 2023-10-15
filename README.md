@@ -1,23 +1,18 @@
 # VoidStar Security Hardware Sec Wiki
 
-![assets/images/logo.png](assets/images/logo.png)
-
 <p align="center">
-  <img src="assets/images/logo.png" alt="VSS Logo" style="width:200px"/>
+  <img src="assets/images/logo.png" alt="VSS Logo" style="width:400px"/>
 </p>
+
+![GitHub Repo stars](https://img.shields.io/github/stars/voidstarsec/hw-hacking-lab) ![GitHub forks](https://img.shields.io/github/forks/voidstarsec/hw-hacking-lab)
+
 ---
 
 # Overview
 
-VoidStar Security LLC Research and Blog Wiki
+Welcome to the VoidStar Security LLC Research and Blog Wiki, here you find previous blog entries, wiki articles on hardware hacking and other hardware security related content. 
 
----
+# Content
 
-# Stats
-
-![GitHub Repo stars](https://img.shields.io/github/stars/voidstarsec/hw-hacking-lab)
-
-![GitHub User's stars](https://img.shields.io/github/stars/wrongbaud)
-
-![GitHub forks](https://img.shields.io/github/forks/voidstarsec/hw-hacking-lab)
+# Contributions
 

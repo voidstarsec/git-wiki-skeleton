@@ -1,9 +1,9 @@
+# Introduction
 
-![Image](assets/images/logo.png)
+One of the most common questions that I get during a [training](https://voidstarsec.com/training) is:
+> "What do we need to build up an initial hardware hacking lab?" 
 
-# Overview
-
-One of the most common questions that I get during a [training](https://voidstarsec.com/training) is - "What do we need to build up an initial hardware hacking lab." Of course, the answer to this question can be heavily tailored based on the goals of the team and their targets, but I wanted to attempt documenting what would make for a good starter lab. 
+Of course, the answer to this question can be heavily tailored based on the goals of the team and their targets, but I wanted to attempt documenting what would make for a good starter lab. 
 
 The following document aims to outline the basic requirements for well rounded embedded systems laboratory. 
 
