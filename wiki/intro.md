@@ -1,5 +1,5 @@
 
-![Image](images/logo.png)
+![Image](assets/images/logo.png)
 
 # Overview
 
