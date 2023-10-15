@@ -1,4 +1,4 @@
-# Oscilloscope Vs.  Logic Analyzers  
+# [Oscilloscope Vs. Logic Analyzers ](./oscope-vs-logic-analyzer)
 
 Another common question that often comes up as we review the tools in class is
 

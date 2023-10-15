@@ -1,4 +1,4 @@
-# Fault Injection
+# [Fault Injection](./fault-injection)
 
 Fault injection (FI) involves introducing an error/modification minor enough to cause undefined behavior on a target but not enough to stop the target from operating entirely. This typically involves injecting a high-voltage pulse or temporarily draining the voltage from a targeted power source or “rail” on the target system.
 

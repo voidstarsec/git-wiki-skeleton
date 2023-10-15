@@ -1,4 +1,4 @@
-# Flash Readers
+# [Flash Readers](./flash-extraction)
 
 So, you have done your initial teardown and identified a non-volatile storage device from which you want to extract some data. Perhaps there is a [SPI flash](https://wrongbaud.github.io/posts/router-teardown/) chip or a [TSOP 48 parallel](https://wrongbaud.github.io/posts/Holiday-Teardown/) flash that you want to extract data from. Many flash readers are available; below is a list of what I have in my lab. The Xeltek is somewhat expensive (it is currently on sale for $995.00), and the individual sockets for different chip packages range from $400-$700, so the cost adds up quickly. However, with that cost comes support from Xeltek and fairly reliable tooling, assuming you are comfortable with BGA rework and re-balling ICs, this may be the right choice for you and your team. 
 

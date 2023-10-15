@@ -1,4 +1,4 @@
-# Oscilloscopes
+# [Oscilloscopes](./oscilloscope)
 
 While multimeters help us measure various signals on our target device, an Oscilloscope can help us capture and visualize these measurements. When selecting a scope, you need to consider what the use case will be. Will you be doing differential power analysis or power trace captures? Or are you more interested in capturing other types of analog waveforms over a longer period? The main variables to look at when selecting an oscilloscope are:
 

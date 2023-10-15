@@ -1,4 +1,4 @@
-# Logic Analyzers
+# [Logic Analyzers](./logic-analyzer)
 
 Let's say you identified a fluctuating voltage sequence with your multimeter and decided to look at the signal with your oscilloscope. After viewing the signal with the oscilloscope, you saw sequences of high and low pulses that look something like this:
 

@@ -1,4 +1,4 @@
-# Microscopes/Magnification
+# [Microscopes/Magnification](./microscopes-magnification)
 
 When tearing down a target for the first time, you first want to locate and document all of the part numbers. Part numbers and PCB markings can sometimes be challenging to see with the naked eye, so having a cheap benchtop microscope or hand held loupe is never a bad idea. These will also come in handy when removing or modifying small components. Hand held loupes are great for quick identification of components. 
 

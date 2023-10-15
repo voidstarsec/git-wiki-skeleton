@@ -1,4 +1,4 @@
-# SBCs / Interface Tools
+# [SBCs / Interface Tools](./single-board-computers)
 
 Having a few generic embedded interface tools in your toolkit is always a good idea. I am a big fan of using embedded Linux SBCs due to their flexibility and the fact that you have an entire OS at your disposal, which can open up opportunities to use your favorite programming language to interact with the standard peripherals, which will often be exposed through character/block devices in /dev/. One of the most common Linux-based SBCs, the Raspberry Pi, has been difficult to acquire over the last few years. Luckily, the Armbian project supports other boards, such as the Orange Pi Zero 2 and the Orange Pi 4 LTS. However, you may only sometimes require something with so much horsepower; having FT2232H-based boards, such as the generic breakouts and things like the Tigard, is also handy. The Buspirate, a classic embedded Swiss army knife, recently released a new version that the RP2040 powers (Note that the Link below is for just the PCB and not for the entire product)
 

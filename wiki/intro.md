@@ -1,4 +1,4 @@
-# Introduction
+# [Introduction](./intro)
 
 One of the most common questions that I get during a [training](https://voidstarsec.com/training) is:
 > "What do we need to build up an initial hardware hacking lab?" 
