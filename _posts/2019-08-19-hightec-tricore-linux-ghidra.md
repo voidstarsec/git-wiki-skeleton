@@ -1,12 +1,7 @@
 ---
-layout: post
-title:  "Tricore Basics: Using the Hightec Tricore Toolchain in Linux"
-image: ''
-date:   2019-08-4 00:20:10
-tags: [tools, tricore]
-description: ''
-categories: [tools,automotive]
+published: true
 ---
+
 
 
 # Background

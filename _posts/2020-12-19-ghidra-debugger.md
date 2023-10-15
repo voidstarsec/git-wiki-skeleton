@@ -1,11 +1,5 @@
 ---
-layout: post
-title:  "A first look at Ghidra's Debugger - Game Boy Advance Edition"
-image: ''
-date:   2020-12-19 00:06:31
-tags: [ghidra,gba]
-description: 'Building Ghidra and reviewing the debugging features'
-categories: [ghidra]
+published: true
 ---
 
 # A first look at Ghidra's Debugger - Game Boy Advance Edition

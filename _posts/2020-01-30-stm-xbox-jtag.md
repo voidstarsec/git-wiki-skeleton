@@ -1,12 +1,7 @@
 ---
-layout: post
-title:  "Hardware Debugging for Reverse Engineers Part 1: SWD, OpenOCD and Xbox One Controllers"
-image: ''
-date:   2020-01-30 00:06:31
-tags: [hardware,swd]
-description: ''
-categories: [arcade]
+published: true
 ---
+
 
 ## Background
 I was looking around my apartment for potential targets for my next post and was pleasantly surprised to find the following XBox One controller still in the packaging:

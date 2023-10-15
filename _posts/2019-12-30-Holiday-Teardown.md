@@ -1,12 +1,7 @@
 ---
-layout: post
-title:  "BasicFUN Series Part 4: I2C Sniffing, EEPROM Extraction and Parallel Flash Extraction"
-image: ''
-date:   2019-12-30 00:06:31
-tags: [hardware,i2c,nand,spi]
-description: 'Hardware teardown of handheld electronics'
-categories: [arcade]
+published: true
 ---
+
 
 # Overview
 Over the holiday break, I received a few more random game platforms from friends and family who know how much I enjoy tearing into these things. While I didn't find anything amazing or insightful, I did use some techniques and tools that I've not mentioned before here so I wanted to go over them in more detail. The purpose of this post is not necessarily about what lies within these ROM files, but more on the methods and tools used to extract the information. 

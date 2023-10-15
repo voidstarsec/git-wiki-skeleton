@@ -1,12 +1,7 @@
 ---
-layout: post
-title:  "Godzilla Vs. Kong Vs ... Ghidra? - Ghidra Scripting, PCode Emulation, and Password Cracking"
-image: ''
-date:   2021-04-23 00:06:31
-tags: [ghidra,gba,pcode,reversing,firmware]
-description: 'Godzilla Vs. Kong Vs ... Ghidra? - Ghidra Scripting, PCode Emulation and Password Cracking'
-categories: [ghidra]
+published: true
 ---
+
 
 # Godzilla Vs. Kong Vs ... Ghidra? - Ghidra Scripting, PCode Emulation, and Password Cracking on a GBA ROM
 

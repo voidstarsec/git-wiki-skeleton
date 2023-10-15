@@ -1,11 +1,5 @@
 ---
-layout: post
-title:  "Writing a GHIDRA Loader: STM32 Edition."
-image: ''
-date:   2020-02-21 00:22:10
-tags: [ghidra,tools]
-description: ''
-categories: [ghidra]
+published: true
 ---
 
 # Background

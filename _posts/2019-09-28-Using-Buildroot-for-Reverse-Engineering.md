@@ -1,12 +1,7 @@
 ---
-layout: post
-title:  "Using Buildroot for Reverse Engineering"
-image: ''
-date:   2019-09-28 00:06:31
-tags: [tools,linux]
-description: ''
-categories: [tools]
+published: true
 ---
+
 
 
 # Using Buildroot for Reverse Engineering

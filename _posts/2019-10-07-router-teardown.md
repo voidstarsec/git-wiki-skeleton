@@ -1,12 +1,7 @@
 ---
-layout: post
-title:  "Router Analysis Part 1: UART Discovery and SPI Flash Extraction"
-image: ''
-date:   2019-10-07 00:06:31
-tags: [hardware, uart, spi]
-description: ''
-categories: [routers]
+published: true
 ---
+
 
 
 # Router Analysis Part 1: Hardware Teardown
